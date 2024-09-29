@@ -9,10 +9,10 @@ These tokens are supposed to be rewarded by the admnistrators of the rewarding c
 You can access the Dapp through the link:
 Open [Swis Bounty Loyalty](https://melodic-engine-echoing.on-fleek.app/) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+The Deployed Smart contract address is
+## `0x1F8d0A1f88C38BDbb5EdADD876c6bE6055d723C6`
 
-### `npm test`
+
 
 
 
