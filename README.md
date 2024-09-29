@@ -7,7 +7,7 @@ These tokens are supposed to be rewarded by the admnistrators of the rewarding c
 
 ### `Intaracting with the Project`
 You can access the Dapp through the link:
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Open [Swis Bounty Loyalty](https://melodic-engine-echoing.on-fleek.app/) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
