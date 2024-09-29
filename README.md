@@ -12,6 +12,9 @@ Open [Swis Bounty Loyalty](https://melodic-engine-echoing.on-fleek.app/) to view
 The Deployed Smart contract address is
 ## `0x1F8d0A1f88C38BDbb5EdADD876c6bE6055d723C6`
 
+You can access the video on how to navigate the Dapp through the link:
+Open [Swis Bounty Loyalty]() to view the video.
+
 
 
 
