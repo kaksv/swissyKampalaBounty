@@ -1,14 +1,12 @@
-# Getting Started with Create React App
+# Swisstronik Bounty Kampala Loyalty Program
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The swisstronik Bounty Kampala program is a Dapp for rewarding participants of the swisstronik Kampala challenge with the Swissy Bounty Token (SWB)
+These tokens are supposed to be rewarded by the admnistrators of the rewarding contract: in this case, I; deployer, If you are not the deployer and you try to reward a participating address, you will be notified as one without permission to do so.
 
-## Available Scripts
 
-In the project directory, you can run:
 
-### `npm start`
-
-Runs the app in the development mode.\
+### `Intaracting with the Project`
+You can access the Dapp through the link:
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
