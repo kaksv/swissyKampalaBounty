@@ -28,7 +28,8 @@ const LoyaltyProgram = () => {
   //6. initialize contract
   const contract = new web3.eth.Contract(
     ABI,
-    '0x1F8d0A1f88C38BDbb5EdADD876c6bE6055d723C6'
+    // '0x1F8d0A1f88C387931BDbb5EdADD876c6bE6055d723C6'
+    '0xfbaBa387Af27F32066c8311d406F75E3cc3f'
   )
 
   const connectWallet = async () => {
@@ -89,11 +90,11 @@ const LoyaltyProgram = () => {
       'ether'
     )
     //convert amount to the wei unit
-    if (accounts[0] !== '0x4b6117d1fef269455ce59314c11b0b649da787ea') {
-      alert(
-        'Connected Account is not authorised to send rewards. Please try another wallet.'
-      )
-    }
+    // if (accounts[0] !== '0x4b6117d1fef269455ce59314c11b0b649da787ea') {
+    //   alert(
+    //     'Connected Account is not authorised to send rewards. Please try another wallet.'
+    //   )
+    // }
     const tx = await contract.methods
       .transfer(recepientAddress, amount_to_receive_in_wei)
       .send({ from: accounts[0] })
